@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Profile views-10,000+-green" />
   <img src="https://img.shields.io/badge/Medium-grey?logo=medium" />
   <img src="https://img.shields.io/badge/Portfolio-Koniosh-blue?logo=github" />
-  <img src="https://img.shields.io/badge/Total Stars-100+-orange" />
 </p>
 
 <p align="center">
@@ -13,32 +12,30 @@
 
 ---
 
-Hey there! I'm **Koniosh**, an **Aspiring Software Engineer** passionate about **Web**, **App**, and **Open-Source** development.  
-I love exploring new technologies, contributing to cool projects, and building apps that make life easier.
+Hey there! I'm **Koniosh**, an **Aspiring Software Engineer** passionate about **Web** and **Open-Source** development.  
+I love exploring new technologies, contributing to cool projects, and building web-service that make life easier.
 
-> _Recent contribution:_ Built an advanced **C++ SDK for Appwrite**, featured in Appwrite Hackathon 2024 🎉
+> _Recent contribution:_ Building dynamic solutions to real-lefe problems.
 
 ---
 
 ### 🛠 Tech Stack
 
 I work primarily with **TypeScript**, **React**, and **NextJS** for web development.  
-I'm also learning **C++**, **Spring Boot**, and diving into **Linux Kernel internals** 🐧
+I'm also learning **Java**, **Spring Boot**, and diving into **Linux Kernel internals** 🐧
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/Appwrite-pink?logo=appwrite" />
   <img src="https://img.shields.io/badge/Node.js-green?logo=node.js" />
-  <img src="https://img.shields.io/badge/React-blue?logo=react" />
+  <img src="https://img.shields.io/badge/React-Violet?logo=react" />
   <img src="https://img.shields.io/badge/git-orange?logo=git" />
   <img src="https://img.shields.io/badge/React Native-blue?logo=react" />
-  <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-blue?logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Python-yellow?logo=python" />
   <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb" />
-  <img src="https://img.shields.io/badge/Flask-black?logo=flask" />
+  <img src="https://img.shields.io/badge/Taulwind-blue?logo=flask" />
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql" />
-  <img src="https://img.shields.io/badge/Firebase-yellow?logo=firebase" />
 </p>
 
 ---
