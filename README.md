@@ -1,52 +1,73 @@
-# Shivanshi Upadhyay
+<h1 align="center"> <img src="https://em-content.zobj.net/thumbs/160/apple/325/waving-hand_1f44b.png" height="30" /> Namaste, World! </h1>
 
-**Full Stack Developer | SDE Intern @ Medos | Backend Team Leader (ex-Coding Bits) | Codess Cafe '25 Mentee**
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile views-10,000+-green" />
+  <img src="https://img.shields.io/badge/Medium-grey?logo=medium" />
+  <img src="https://img.shields.io/badge/Portfolio-Koniosh-blue?logo=github" />
+</p>
 
----
-
-## 👩‍💻 About Me
-
-Hi! I'm Shivanshi Upadhyay, currently a 3rd-year BTech student in Computer Science Engineering. I have hands-on experience as a backend and frontend developer, having interned at Coding Bits and presently working as an SDE Intern at Medos. I love building real-life solutions using my web development skills and am passionate about continuous learning and team leadership.
-
-- **Selected Young Turks'24 (Top 10k among 500,000+)**
-- **Codess Cafe '25 Mentee (Selected from 250,000+ applicants)**
-- **Member of PTSC, my college coding council**
-- **Hobbies:** Chess, Badminton
+<p align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" />
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+Hey there! I'm **Koniosh**, an **Aspiring Software Engineer** passionate about **Web** and **Open-Source** development.  
+I love exploring new technologies, contributing to cool projects, and building web-services that make life easier.
 
-- **Languages/Frameworks:** TypeScript, JavaScript, Node.js, React.js, Next.js, EJS
-- **Testing:** Jest, Unit Testing
-- **Styling:** Tailwind CSS
-- **DevOps:** Docker
-- **APIs:** RESTful APIs
-- ...and more!
+> _Recent contribution:_ Building dynamic solutions to real-life problems. Worked as backend+ frontend developer at Coding Bits and working as SDE intern at Medos
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 Tech Stack
 
-- [CSV Import System](https://github.com/Koniosh/.CSVImportSystem.git)
-- [Inventory Project](https://github.com/Koniosh/Inventory-Project.git)
+I work primarily with **TypeScript**, **React**, and **NextJS** for web development.  
+I'm also learning **Java**, **Spring Boot**, and diving into **Full Stack Development** 🐧
 
----
-
-## 🌐 Social Links
-
-- [LinkedIn](https://www.linkedin.com/in/shivanshi-u-9a7573281)
-- [Discord](https://discordapp.com/users/1191603838185132086)
-- [YouTube](https://youtube.com/@shayri_dilse84?si=2OzKAti2kSf1St57)
-
----
-
-## 📌 Fun Facts
-
-- I led backend teams and enjoy mentoring others.
-- I thrive in hackathons and competitive coding.
-- My preferred pronouns: she/her.
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/React-Violet?logo=react" />
+  <img src="https://img.shields.io/badge/git-orange?logo=git" />
+  <img src="https://img.shields.io/badge/React Native-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Java-blue?logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python" />
+  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb" />
+  <img src="https://img.shields.io/badge/Taulwind-blue?logo=flask" />
+  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql" />
+</p>
 
 ---
 
-*Let's connect and build something amazing!*
+### 📬 Let's Connect
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1191603838185132086)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ShivanshiUpadhyay-blue?logo=linkedin)](https://www.linkedin.com/in/shivanshi-u-9a7573281)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@shayri_dilse84?si=2OzKAti2kSf1St57)
+
+---
+
+### 📈 GitHub Stats
+
+![Koniosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koniosh&show_icons=true&theme=radical)
+
+### 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koniosh&layout=compact&theme=radical)
+
+---
+
+
+**Koniosh/Koniosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working with medos
+- 🌱 I’m currently learning DSA in JAVA
+- 👯 I’m looking to collaborate on full stack devloper role
+- 🤔 I’m looking for help with projects
+- 💬 Ask me about ...
+- 📫 How to reach me: shivanshidm@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: i love playing chess and badminton
