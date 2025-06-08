@@ -60,11 +60,11 @@ I'm also learning **Java**, **Spring Boot**, and diving into **Full Stack Develo
 
 **More About me:**
 
-# 🔭 I’m currently working with medos
-# 🌱 I’m currently learning DSA in JAVA
-# 👯 I’m looking to collaborate on full stack devloper role
-# 🤔 I’m looking for help with projects
-# 💬 Ask me about anything
-# 📫 How to reach me: shivanshidm@gmail.com
-# 😄 Pronouns: She/Her
-# ⚡ Fun fact: i love playing chess and badminton
+### 🔭 I’m currently working with medos
+### 🌱 I’m currently learning DSA in JAVA
+### 👯 I’m looking to collaborate on full stack devloper role
+### 🤔 I’m looking for help with projects
+### 💬 Ask me about anything
+### 📫 How to reach me: shivanshidm@gmail.com
+### 😄 Pronouns: She/Her
+### ⚡ Fun fact: i love playing chess and badminton
