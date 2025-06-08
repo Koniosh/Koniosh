@@ -58,16 +58,13 @@ I'm also learning **Java**, **Spring Boot**, and diving into **Full Stack Develo
 
 ---
 
+**More About me:**
 
-**Koniosh/Koniosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working with medos
-- 🌱 I’m currently learning DSA in JAVA
-- 👯 I’m looking to collaborate on full stack devloper role
-- 🤔 I’m looking for help with projects
-- 💬 Ask me about ...
-- 📫 How to reach me: shivanshidm@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: i love playing chess and badminton
+# 🔭 I’m currently working with medos
+# 🌱 I’m currently learning DSA in JAVA
+# 👯 I’m looking to collaborate on full stack devloper role
+# 🤔 I’m looking for help with projects
+# 💬 Ask me about anything
+# 📫 How to reach me: shivanshidm@gmail.com
+# 😄 Pronouns: She/Her
+# ⚡ Fun fact: i love playing chess and badminton
