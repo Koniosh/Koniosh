@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Profile views-10,000+-green" />
   <img src="https://img.shields.io/badge/Medium-grey?logo=medium" />
-  <img src="https://img.shields.io/badge/Portfolio-Koniosh-blue?logo=github" />
 </p>
 
 <p align="center">
