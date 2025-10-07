@@ -66,4 +66,4 @@ I'm also learning **Java**, **Spring Boot**, and diving into **Full Stack Develo
 ### 💬 <i>Ask me about anything</i>
 ### 📫 <i>How to reach me: shivanshidm@gmail.com</i>
 ### 😄 <i>Pronouns: She/Her</i>
-### ⚡ <i>Fun fact: I love playing chess and badminton and ofcourse to guide.</i>
+### ⚡ <i>Fun fact: I can avoid coding for max 2seconds</i>
