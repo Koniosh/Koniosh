@@ -60,7 +60,6 @@ I'm also learning **Java**, **Spring Boot**, and diving into **Full Stack Develo
 **More About me:**
 
 ### 🔭 <i>I’m currently working with medos</i>
-### 🌱 <i>I’m currently learning DSA in JAVA</i>
 ### 👯 <i>I’m looking to collaborate on full stack devloper role</i>
 ### 🤔 <i>I’m looking for help with projects</i>
 ### 💬 <i>Ask me about anything</i>
