@@ -43,7 +43,6 @@ I'm also learning **Java**, **Spring Boot**, and diving into **Full Stack Develo
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1191603838185132086)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ShivanshiUpadhyay-blue?logo=linkedin)](https://www.linkedin.com/in/shivanshi-u-9a7573281)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@shayri_dilse84?si=2OzKAti2kSf1St57)
 
 ---
 
