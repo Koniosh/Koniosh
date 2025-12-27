@@ -150,3 +150,37 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 | JavaScript | 1hr 20mins | 9.4% | ██████████ |
 | CSS | 30mins | 2.8% | ███ |
 | JSON | 12mins | 0.8% | █ |
+---
+
+<div align="center">
+  
+### Thanks for visiting! 🌊
+
+# 🌟 Open to collaborations and exciting opportunities! 🌟
+
+**Let's build something amazing together!**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Koniosh&style=flat-square&color=blueviolet)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-brightgreen?style=flat-square)
+
+</div>
+
+---
+
+## Key changes made:
+
+- ✨ Enhanced visual design with gradient elements
+- 📊 Added comprehensive GitHub analytics and contribution graphs  
+- 🛠️ Organized technology stack with proper categorization
+- 📈 Improved weekly development breakdown with interactive elements
+- 🎯 Added professional experience and achievements sections
+- 🤝 Enhanced social media and contact links
+- 🚀 Modernized overall layout and styling for better user engagement
+
+---
+
+<div align="center">
+  <strong>Made with 💜 by Shivanshi Upadhyay</strong>
+</div>
