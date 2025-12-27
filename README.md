@@ -154,10 +154,12 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://github.com/Koniosh/Koniosh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Koniosh/Koniosh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Koniosh/Koniosh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Koniosh/Koniosh/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35" />
