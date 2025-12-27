@@ -137,28 +137,37 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ## 📈 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-
 <div align="center">
-  
-![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Koniosh&theme=radical&hide_border=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koniosh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
+
+### **Development Statistics**
+
+| Language | Time Spent | Percentage | Progress |
+|----------|------------|------------|----------|
+| TypeScript | 8hrs 35mins | 60.2% | ████████████████████████████████████████████████████████████ |
+| React | 3hrs 45mins | 26.8% | ██████████████████████████████ |
+| JavaScript | 1hr 20mins | 9.4% | ██████████ |
+| CSS | 30mins | 2.8% | ███ |
+| JSON | 12mins | 0.8% | █ |
 
 ### **Key Development Insights:**
 
-```typescript
+```javascript
 const weeklyStats = {
   totalCodingTime: "14hrs 2mins",
-  mostUsedLanguage: "TypeScript",
-  projectsFocused: ["Web Development", "Backend APIs", "UI Components"],
-  learningGoals: ["Spring Boot", "Advanced React Patterns", "Database Optimization"]
+  mostUsedLanguage: "TypeScript", 
+  projectsFocused: [
+    "Web Development", 
+    "Backend APIs", 
+    "UI Components"
+  ],
+  learningGoals: [
+    "Spring Boot", 
+    "Advanced React Patterns", 
+    "Database Optimization"
+  ]
 };
 
-// Development Distribution
-TypeScript    ████████████████████████████████████████████████████████████ 60.2%
-React         ███████████████████████████████████ 26.8%
-JavaScript    ████████████ 9.4%
-CSS           ███ 2.8%
-JSON          █ 0.8%
+console.log(`This week I focused on ${weeklyStats.mostUsedLanguage}! 🚀`);
 ```
