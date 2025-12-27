@@ -114,7 +114,7 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ## 🏆 Achievements & Highlights
 
-- 🎯 **3000+ Contributions** in the last year
+- 🎯 **900+ Contributions** in the last year
 - 🚀 **Multiple Full-Stack Projects** deployed in production  
 - 👥 **Open Source Contributor** with focus on web development
 - 💼 **Professional Experience** at leading tech companies
