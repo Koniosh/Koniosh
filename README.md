@@ -152,18 +152,21 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 | JSON | 12mins | 0.8% | █ |
 ---
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
+
+<div align="center">
+  <h3>🌟 Open to collaborations and exciting opportunities! 🌟</h3>
+  <p><strong>Let's build something amazing together!</strong></p>
+</div>
+
 <div align="center">
   
-### Thanks for visiting! 🌊
-
-# 🌟 Open to collaborations and exciting opportunities! 🌟
-
-**Let's build something amazing together!**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Koniosh&style=flat-square&color=blueviolet)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-brightgreen?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Koniosh&style=for-the-badge&color=blueviolet&label=PROFILE%20VIEWS)
+![Last Updated](https://img.shields.io/badge/LAST%20UPDATED-DECEMBER%202024-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -182,5 +185,9 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 ---
 
 <div align="center">
-  <strong>Made with 💜 by Shivanshi Upadhyay</strong>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</div>
+
+<div align="center">
+  <sub>💫 Made with passion by <strong>Shivanshi Upadhyay</strong> 💫</sub>
 </div>
