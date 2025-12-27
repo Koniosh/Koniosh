@@ -150,24 +150,3 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 | JavaScript | 1hr 20mins | 9.4% | ██████████ |
 | CSS | 30mins | 2.8% | ███ |
 | JSON | 12mins | 0.8% | █ |
-
-### **Key Development Insights:**
-
-```javascript
-const weeklyStats = {
-  totalCodingTime: "14hrs 2mins",
-  mostUsedLanguage: "TypeScript", 
-  projectsFocused: [
-    "Web Development", 
-    "Backend APIs", 
-    "UI Components"
-  ],
-  learningGoals: [
-    "Spring Boot", 
-    "Advanced React Patterns", 
-    "Database Optimization"
-  ]
-};
-
-console.log(`This week I focused on ${weeklyStats.mostUsedLanguage}! 🚀`);
-```
