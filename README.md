@@ -151,6 +151,12 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 | JSON | 12mins | 0.8% | █ |
 ---
 
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://github.com/Koniosh/Koniosh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
 ---
 
 <div align="center">
