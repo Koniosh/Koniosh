@@ -10,8 +10,9 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Shivanshi!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;TypeScript+%7C+React+%7C+Node.js;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
+
 ---
 
 ## 🚀 About Me
@@ -85,12 +86,8 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ### **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koniosh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-### **GitHub Streak**
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koniosh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Koniosh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koniosh&theme=radical" alt="GitHub Streak" width="49%" />
 </div>
 
 ### **Most Used Languages**
@@ -98,9 +95,19 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koniosh&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-### **Contribution Activity Graph**
+### **Contribution Overview - 3000+ Contributions This Year**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koniosh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koniosh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" width="100%" />
+</div>
+
+### **Contribution Heatmap**
+<div align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/Koniosh" alt="GitHub Contribution Chart" width="100%" />
+</div>
+
+### **Detailed Activity Analysis**
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koniosh&theme=github_dark" alt="Profile Summary" width="100%" />
 </div>
 
 ---
@@ -136,10 +143,6 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ## 📈 Weekly Development Breakdown
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koniosh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
-</div>
-
 ### **Development Statistics**
 
 | Language | Time Spent | Percentage | Progress |
@@ -149,17 +152,15 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 | JavaScript | 1hr 20mins | 9.4% | ██████████ |
 | CSS | 30mins | 2.8% | ███ |
 | JSON | 12mins | 0.8% | █ |
+
+### **This Week's Achievements:**
+- 🎯 **60.2%** of time spent on TypeScript development
+- ⚛️ Built **3 new React components** 
+- 🔧 Completed **2 API endpoints** in Node.js
+- 🎨 Improved UI responsiveness with Tailwind CSS
+- 📚 Started learning **Spring Boot fundamentals**
+
 ---
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Koniosh/Koniosh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Koniosh/Koniosh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Koniosh/Koniosh/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35" />
@@ -175,14 +176,6 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 ![Profile Views](https://komarev.com/ghpvc/?username=Koniosh&style=for-the-badge&color=blueviolet&label=PROFILE%20VIEWS)
 ![Last Updated](https://img.shields.io/badge/LAST%20UPDATED-DECEMBER%202024-brightgreen?style=for-the-badge)
 
-</div>
-
----
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </div>
 
 <div align="center">
