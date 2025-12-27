@@ -29,44 +29,48 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
-## 💼 Professional Experience
-
-```yaml
-Current Role:
-  - Position: SDE Intern
-  - Company: Medos
-  - Focus: Full Stack Development
-
-Previous Experience:
-  - Position: Backend + Frontend Developer
-  - Company: Coding Bits
-  - Achievements: Built dynamic solutions for real-life problems
-  🛠️ Technology Stack
+🛠️ Technology Stack
 Languages
-
+TypeScript
+JavaScript
+Java
+Python
 
 Frontend Development
-
+React
+Next.js
+React Native
+Tailwind CSS
 
 Backend Development
-
+Node.js
+Spring Boot
+Express.js
 
 Databases
-
+MongoDB
+MySQL
 
 Tools & Technologies
-
+Git
+GitHub
+VS Code
 
 📊 GitHub Analytics
 Contribution Overview
 GitHub StatsGitHub Streak
+
 Activity Breakdown
 Top LanguagesContribution Graph
+
 Detailed Contribution Metrics
 Profile Summary
+
 Repos per LanguageMost Commit LanguageStats
+
 Contribution Graph
 Productive TimeContribution Activity
+
 🏆 Achievements & Highlights
 🎯 3000+ Contributions in the last year
 🚀 Multiple Full-Stack Projects deployed in production
@@ -74,9 +78,11 @@ Productive TimeContribution Activity
 💼 Professional Experience at leading tech companies
 📈 Consistent Growth in technical skills and project delivery
 🌟 Featured Projects
-Project 1Project 2
+Profile Repo
+
 🤝 Connect with Me
 LinkedInDiscordEmailMedium
+
 📈 Weekly Development Breakdown
 text
 TypeScript   8 hrs 35 mins   ████████████░░░░░░░░░   60.2%
