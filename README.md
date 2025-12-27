@@ -95,7 +95,7 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koniosh&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-### **Contribution Overview - 3000+ Contributions This Year**
+### **Contribution Overview - 900+ Contributions This Year**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koniosh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" width="100%" />
 </div>
